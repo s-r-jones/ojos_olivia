@@ -1,0 +1,50 @@
+{
+    "1681928079633469:814201": {
+        "IResourceController": {
+            "name": "oppenheimer_office",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1681928082571603:815594",
+            "publicId": "1681928082797352:815695",
+            "expected_hash": "937e33708ec593199318b374516c5631",
+            "resources": [
+                "1681928082119172:815296",
+                "1681928082157967:815331",
+                "1681928082537801:815557"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "main",
+                        "v": "1681928082159460:815334"
+                    }
+                ]
+            }
+        }
+    },
+    "1681928082571603:815594": {
+        "IFileManager": {
+            "path": "Files/File_1681928082571603_815594.fbx"
+        }
+    },
+    "1681928082797352:815695": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/oppenheimer_office.fbx",
+                "hash": "937e33708ec593199318b374516c5631"
+            }
+        }
+    }
+}

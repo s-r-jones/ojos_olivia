@@ -1,0 +1,39 @@
+{
+    "1681928082158351:815332": {
+        "IFileManager": {
+            "path": "Files/File_1681928082158351_815332"
+        }
+    },
+    "1681928082159456:815333": {
+        "IResourceController": {
+            "name": "main",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681928082159460:815334",
+            "fileId": "1681928082158351:815332",
+            "originalId": "1681928082189778:815354",
+            "publicId": "1681928082871884:815884",
+            "expected_hash": "790aa3dd572e934352c33b922aa40c34"
+        },
+        "IResourceManager": {
+            "uid": "1681928082159460:815334",
+            "name": "Files/File_1681928082158351_815332",
+            "flags": 1
+        }
+    },
+    "1681928082189778:815354": {
+        "IFileManager": {
+            "path": "Files/File_1681928082189778_815354.lsmat"
+        }
+    },
+    "1681928082871884:815884": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/oppenheimer_office/Materials/main.lsmat",
+                "hash": "1760f09821e7564a612eed2f74544ad1"
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1681928018453630:787493": {
+        "IResourceController": {
+            "name": "audio",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681928018453809:787494",
+            "resources": []
+        }
+    },
+    "1681928018453809:787494": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/audio"
+            }
+        }
+    }
+}

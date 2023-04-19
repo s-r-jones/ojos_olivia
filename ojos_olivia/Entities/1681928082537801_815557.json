@@ -1,0 +1,30 @@
+{
+    "1681928082537801:815557": {
+        "IResourceController": {
+            "name": "oppenheimer_office",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1681928082537740:815541",
+            "fileId": "1681928082569100:815593",
+            "originalId": "1681928232091826:899674",
+            "expected_hash": "ac388578dcd2c1d5464cfb87ddb6b554"
+        },
+        "IResourceManager": {
+            "uid": "1681928082537740:815541",
+            "name": "oppenheimer_office",
+            "flags": 0
+        }
+    },
+    "1681928082569100:815593": {
+        "IFileManager": {
+            "path": "Files/File_1681928082569100_815593.oprfb"
+        }
+    },
+    "1681928232091826:899674": {
+        "IFileManager": {
+            "path": "Files/File_1681928232091826_899674.oprfb"
+        }
+    }
+}

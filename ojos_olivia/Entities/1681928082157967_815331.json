@@ -1,0 +1,23 @@
+{
+    "1681928082157967:815331": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681928082871437:815874",
+            "resources": [
+                "1681928082159456:815333",
+                "1681928104689740:829265"
+            ]
+        }
+    },
+    "1681928082871437:815874": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/oppenheimer_office/Materials"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "1681928104688845:829264": {
+        "IFileManager": {
+            "path": "Files/File_1681928104688845_829264.pvr"
+        }
+    },
+    "1681928104689740:829265": {
+        "IResourceController": {
+            "name": "texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681928104690571:829268",
+            "fileId": "1681928104688845:829264",
+            "originalId": "1681928104691386:829273",
+            "publicId": "1681928104746152:829294",
+            "expected_hash": "810ffd200335513b2da79e28754f28a3",
+            "additional": {
+                "originHash": "ec77875ad2b1a69a8af692356a7f74d1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1681928104690571:829268",
+            "name": "Files/File_1681928104688845_829264.jpg",
+            "flags": 1
+        }
+    },
+    "1681928104690571:829268": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "eabf8c54a0ce73823df907eadd43e8a1"
+                    },
+                    "v": "1681928105725196:831548"
+                },
+                {
+                    "k": {
+                        "settings_hash": "3073",
+                        "uncompressed_hash": "eabf8c54a0ce73823df907eadd43e8a1"
+                    },
+                    "v": "1681928196091987:876437"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "1499383",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "708611",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1681928104725972:829285"
+        }
+    },
+    "1681928104691386:829273": {
+        "IFileManager": {
+            "path": "Files/File_1681928104691386_829273.jpg"
+        }
+    },
+    "1681928104725972:829285": {
+        "IFileManager": {
+            "path": "Files/File_1681928104725972_829285.jpg"
+        }
+    },
+    "1681928104746152:829294": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/oppenheimer_office/Materials/texture.jpg",
+                "hash": "ec77875ad2b1a69a8af692356a7f74d1"
+            }
+        }
+    },
+    "1681928105725196:831548": {
+        "IFileManager": {
+            "path": "Files/File_1681928105725196_831548.jpg"
+        }
+    },
+    "1681928196091987:876437": {
+        "IFileManager": {
+            "path": "Files/File_1681928196091987_876437.pvr"
+        }
+    }
+}
