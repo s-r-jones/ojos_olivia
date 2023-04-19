@@ -15,7 +15,7 @@
             "fileId": "1681928082158351:815332",
             "originalId": "1681928082189778:815354",
             "publicId": "1681928082871884:815884",
-            "expected_hash": "790aa3dd572e934352c33b922aa40c34"
+            "expected_hash": "712308ce910fe21dfa2ad315af135268"
         },
         "IResourceManager": {
             "uid": "1681928082159460:815334",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "../AdditionalFiles/Assets/models/oppenheimer_office/Materials/main.lsmat",
-                "hash": "1760f09821e7564a612eed2f74544ad1"
+                "hash": "d740284f015d573ac2eeb88089e76ac1"
             }
         }
     }

@@ -1,0 +1,21 @@
+{
+    "1681929385800904:477546": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/balloon_legs 2/pass0/desktop/glsl120",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1681929385801186:477547": {
+        "IResourceController": {
+            "name": "glsl120",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681929385800904:477546",
+            "resources": []
+        }
+    }
+}
